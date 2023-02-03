@@ -1,6 +1,6 @@
 # Sobre o Projeto
 
-Projeto desenvolvido com a cli do React Native. A aplicação consiste em uma lista de repositórios, onde são listados os repositórios com base nos dados enviados no campo de busca. Para realizar a busca, foi utilizada a API Rest do GitHub: https://docs.github.com/pt/rest?apiVersion=2022-11-28.
+Projeto desenvolvido com a CLI do React Native. A aplicação consiste em uma lista de repositórios, onde são listados os repositórios com base nos dados enviados no campo de busca. Para realizar a busca, foi utilizada a API Rest do GitHub: https://docs.github.com/pt/rest?apiVersion=2022-11-28.
 
 <div style="display: inline_block"><br>
     <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/find-github-repository/blob/main/src/assets/Screenshot(1).jpg" />
