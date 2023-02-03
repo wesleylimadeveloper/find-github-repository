@@ -3,10 +3,10 @@
 Projeto desenvolvido com a cli do React Native. A aplicação consiste em uma lista de repositórios, onde são listados os repositórios com base nos dados enviados no campo de busca. Para realizar a busca, foi utilizada a API Rest do GitHub: https://docs.github.com/pt/rest?apiVersion=2022-11-28.
 
 <div style="display: inline_block"><br>
-    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/tv-shows-list/blob/master/assets/screenshot(1).jpg" />
-    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/tv-shows-list/blob/master/assets/screenshot(2).jpg" />
-    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/tv-shows-list/blob/master/assets/screenshot(3).jpg" />
-    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/tv-shows-list/blob/master/assets/screenshot(4).jpg" />
+    <img align="center" height=405 width=200 alt="JavaScript" src="hhttps://github.com/wesleylimadeveloper/find-github-repository/blob/main/src/assets/Screenshot(1).jpg" />
+    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/find-github-repository/blob/main/src/assets/Screenshot(2).jpg" />
+    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/find-github-repository/blob/main/src/assets/Screenshot(3).jpg" />
+    <img align="center" height=405 width=200 alt="JavaScript" src="https://github.com/wesleylimadeveloper/find-github-repository/blob/main/src/assets/Screenshot(4).jpg" />
 </div>
 
 ## Bibliotecas utilizadas
