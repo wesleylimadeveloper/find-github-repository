@@ -1,25 +1,16 @@
-# Redesign do Aplicativo DetranSP
+# Sobre o Projeto
 
-## Tecnologias Utilizadas
-React Native: Framework para desenvolvimento de aplicativos móveis multiplataforma
-Expo: Plataforma que facilita o desenvolvimento e teste de aplicativos React Native
-
-## Inspiração e Design
-O projeto é um redesign do aplicativo do DetranSP (Departamento Estadual de Trânsito de São Paulo), baseado no trabalho da designer Tainá Dias.
-
-Você pode:
-Ver o perfil da designer no LinkedIn: https://www.linkedin.com/in/taina-dias/
-Acessar o protótipo completo no Figma: https://lnkd.in/dCJ2mTy3
-
-## Objetivo
-O projeto visa recriar a interface do aplicativo DetranSP com melhorias de UX/UI, seguindo o conceito proposto pela designer no protótipo original.
+Este é um projeto desenvolvido utilizando a CLI do React Native. O objetivo desta aplicação é exibir uma lista de repositórios do GitHub com base nos dados enviados no campo de busca. Para realizar a busca, foi utilizada a API REST do GitHub: https://docs.github.com/pt/rest?apiVersion=2022-11-28.
 
 ## Bibliotecas utilizadas
 
-- expo: https://docs.expo.dev/
+- React Native Cli: https://reactnative.dev/
 - React Navigation: https://reactnavigation.org/docs/getting-started
 - Styled Components: https://styled-components.com/
-- React Native SVG: https://github.com/software-mansion/react-native-svg
+- Axios: https://axios-http.com/ptbr/docs/intro
+- Phosphor React Native: https://www.npmjs.com/package/phosphor-react-native
+- React Native Toast Notifications: https://www.npmjs.com/package/react-native-toast-notifications
+- React Native Webview - https://github.com/react-native-webview/react-native-webview
 
 ## Como executar o projeto
 
